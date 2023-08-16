@@ -1,2 +1,2 @@
 # Todo-List
-Lista de afazeres
+Uma Lista de afazeres feita com HTML, CSS E JAVASCRIPT (incompleta)
